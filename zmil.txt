@@ -1,4 +1,8 @@
 this is to check wheather the git commit work or not
 so the change is for zmil only and commit in branch master so let check it out
 to make same change in the same file alteration in change
+
 change made in master 
+
+this is a alteration made in chage commit
+
